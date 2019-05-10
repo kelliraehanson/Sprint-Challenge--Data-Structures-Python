@@ -90,7 +90,7 @@ Also, include the runtime and space complexities of the original code and your o
 
 - One point each: 8 points total
 
-#### Stretch
+#### Stretch hi.
 
 - `names.py` is optimized with sub-quadratic runtime complexity and tightly constrained linear space complexity: 4 points
 
